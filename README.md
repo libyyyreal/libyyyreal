@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# hello i am liby/adlibs
+i often times dable in coding stuff but it usually causes chaos i have no control over
 <!--
 **libyyyreal/libyyyreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
